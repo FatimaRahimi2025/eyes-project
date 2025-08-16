@@ -28,7 +28,7 @@ body {
     inset 0 0 25px #767574;
 }
 
-.contianer, .eyes::before{
+.contianer .eyes::before{
     content: '';
     top: 50%;
     left: 35px;
